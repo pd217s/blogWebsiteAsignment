@@ -1,0 +1,57 @@
+body {
+	background-color: #D1C6B4;
+}
+.paragraphInput {
+	width: 80%;
+	height: 300px;
+	font-size: 20px;
+	background-color: whitesmoke;
+}
+.headerInput {
+	font-size: 20px;
+	background-color: whitesmoke;
+}
+
+.blogPostDisplayListItemHeader {
+	font-size: 50px;
+	text-decoration: none;
+	color: black;
+	background-color: whitesmoke;
+}
+
+.center{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h1 {
+	color: darkmagenta;
+	font-size: 60px;
+	padding: 0.2em;
+	display: inline-block
+}
+h3 {
+	color: darkmagenta;
+	font-size: 15px;
+	padding: 0.2em;
+	display: inline-block
+}
+button {
+	padding: 30px;
+	border-radius: 10%;
+	background-color: lightcyan;
+	display: inline-block;
+}
+button:hover {
+	color:darkslateblue;
+	font-size: 20px;
+}
+a:hover{
+	font-size:60px;
+}
+p{
+	font-size: 30px;
+	width: 80%;
+	background-color: whitesmoke;
+}
